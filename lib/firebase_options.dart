@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyD77ZduRDtrpAWJrDa3Qd3DIyubroHT93k',
-    appId: '1:508976050125:android:97ac246b2dc6eefd951e84',
+    appId: '1:508976050125:android:a794cf61f139bb7b951e84',
     messagingSenderId: '508976050125',
     projectId: 'controle-59ed5',
     storageBucket: 'controle-59ed5.appspot.com',
@@ -66,10 +66,11 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCnIOS4LUivuSQs2_uO2bagdTaEX8PnaGY',
-    appId: '1:508976050125:ios:1cd723b091f6527a951e84',
+    appId: '1:508976050125:ios:3301c5ae1ba2909f951e84',
     messagingSenderId: '508976050125',
     projectId: 'controle-59ed5',
     storageBucket: 'controle-59ed5.appspot.com',
-    iosBundleId: 'com.example.controleMensal',
+    iosBundleId: 'com.example.controlemensal',
   );
+
 }

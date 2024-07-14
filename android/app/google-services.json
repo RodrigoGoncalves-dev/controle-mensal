@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:508976050125:android:97ac246b2dc6eefd951e84",
+        "mobilesdk_app_id": "1:508976050125:android:a794cf61f139bb7b951e84",
         "android_client_info": {
-          "package_name": "br.com.controle-mensal"
+          "package_name": "com.example.controlemensal"
         }
       },
       "oauth_client": [],
