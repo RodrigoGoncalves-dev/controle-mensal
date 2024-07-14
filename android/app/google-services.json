@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508976050125",
+    "project_id": "controle-59ed5",
+    "storage_bucket": "controle-59ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508976050125:android:97ac246b2dc6eefd951e84",
+        "android_client_info": {
+          "package_name": "br.com.controle-mensal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD77ZduRDtrpAWJrDa3Qd3DIyubroHT93k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
