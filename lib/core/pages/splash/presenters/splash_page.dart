@@ -14,7 +14,7 @@ class _SplashPageState extends State<SplashPage> {
   void initState() {
     Future.delayed(
       3.seconds,
-      () => Modular.to.navigate(Routes.login.route),
+      () => Modular.to.navigate(Routes.home.route),
     );
     super.initState();
   }

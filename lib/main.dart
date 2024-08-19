@@ -1,5 +1,5 @@
-import 'package:controle_mensal/app_module.dart';
-import 'package:controle_mensal/app_widget.dart';
+import 'package:controle_mensal/core/app_module.dart';
+import 'package:controle_mensal/core/app_widget.dart';
 import 'package:controle_mensal/firebase_options.dart';
 import 'package:flutter/material.dart';
 

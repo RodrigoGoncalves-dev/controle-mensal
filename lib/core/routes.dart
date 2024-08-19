@@ -1,4 +1,4 @@
-import 'package:controle_mensal/shared/models/route_modular_model.dart';
+import 'package:controle_mensal/domain/models/route_modular_model.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
 class Routes {
@@ -17,6 +17,14 @@ class Routes {
     moduleR: '/auth',
     childR: '/login',
     route: '/auth/login',
+    d: d,
+    t: t,
+  );
+  
+  static final RouteModularModel home = RouteModularModel(
+    moduleR: '/home',
+    childR: '/',
+    route: '/home/',
     d: d,
     t: t,
   );
